@@ -11,6 +11,8 @@ namespace Bank
 
         private bool frozen = false;
 
+        private string postcode;
+
         private BankAccount()
         {
         }
